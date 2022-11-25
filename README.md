@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Gabriel dos Anjos Senra 👋
 
-<!--
-**gabriel447/Gabriel447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Full Stack Developer.
 
-Here are some ideas to get you started:
+#### About
+- ⚡️ Main language: Javascript
+- 📡 Backend: `Nodejs`, `PHP`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma` 
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📬 Email: fullstackgabe@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/gabriel-dos-anjos-senra-a0a638171/
