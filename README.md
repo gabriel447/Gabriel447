@@ -7,6 +7,7 @@ I'm a Full Stack Developer.
 - ⚡️ Main language: Javascript
 - 📡 Backend: `Nodejs`, `PHP`
 - 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🔥 Database: `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`
