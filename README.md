@@ -6,7 +6,7 @@ I'm a Full Stack Developer.
 #### About
 - ⚡️ Main language: Javascript
 - 📡 Backend: `Nodejs`, `Typescript`, `Python`, `PHP`, `Java`
-- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `Reactjs`, `Vuejs`, `Angularjs`
+- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `Reactjs`, `Vuejs`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`
