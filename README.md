@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel dos Anjos Senra 👋
 
 #### About
-I'm a Full Stack Developer.
+I'm a IT Support Analyst.
 
 #### About
 - ⚡️ Main language: Javascript
