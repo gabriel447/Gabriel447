@@ -14,4 +14,4 @@ I'm a IT Support Analyst.
 #### Contacts
 
 - 📬 Email: fullstackgabe@gmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/gabriel-dos-anjos-senra-a0a638171/
+- 👤 Linkedin: https://www.linkedin.com/in/fullstackgabe
