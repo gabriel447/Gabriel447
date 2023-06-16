@@ -9,9 +9,10 @@ I'm a IT Support Analyst.
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `bootstrap`, `React`, `Vue`
 - 👓 NoCode: `Wordpress`, `n8n`
+- 👑 databases: `MySql`, `MongoDB`, `SQLite`, `PostgreSQL`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ IDEA`
+- 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ IDEA`, `Workbench`, `XAMPP`
 
 #### Contacts
 
