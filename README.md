@@ -10,7 +10,7 @@ I'm a IT Support Analyst.
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `React`, `Vue`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `MySql`, `MongoDB`, `SQLite`, `PostgreSQL`
-- 👞 Cloud: `AWS`
+- 👞 Cloud: `AWS`, `Locaweb`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ IDEA`, `Workbench`, `XAMPP`
