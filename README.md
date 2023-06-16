@@ -7,8 +7,8 @@ I'm a IT Support Analyst.
 - ⚡️ Main language: PHP
 - 📡 Backend: `Nodejs`, `JAVA`, `PHP`, `Python`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `bootstrap`, `React`, `Vue`
-- 👓 NoCode: `Wordpress`, `n8n`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `React`, `Vue`
+- 👓 NoCode: `Wordpress`, `  N8N`
 - 👑 Databases: `MySql`, `MongoDB`, `SQLite`, `PostgreSQL`
 - 👞 Cloud: `AWS`
 - 🎨 Layout Design: `Figma` 
