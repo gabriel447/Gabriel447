@@ -4,12 +4,14 @@
 I'm a IT Support Analyst.
 
 #### About
-- ⚡️ Main language: Javascript
-- 📡 Backend: `Nodejs`, `JAVA`, `PHP`
+- ⚡️ Main language: PHP
+- 📡 Backend: `Nodejs`, `JAVA`, `PHP`, `Python`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
+- 🔌 Frameworks: `Laravel`, `bootstrap`, `React`, `Vue`
+- 👓 NoCode: `Wordpress`, `n8n`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`
+- 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ IDEA`
 
 #### Contacts
 
