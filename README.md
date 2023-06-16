@@ -8,7 +8,7 @@ I'm a IT Support Analyst.
 - 📡 Backend: `Nodejs`, `JAVA`, `PHP`, `Python`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `React`, `Vue`
-- 👓 NoCode: `Wordpress`, `  N8N`
+- 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `MySql`, `MongoDB`, `SQLite`, `PostgreSQL`
 - 👞 Cloud: `AWS`
 - 🎨 Layout Design: `Figma` 
