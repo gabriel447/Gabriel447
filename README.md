@@ -5,15 +5,15 @@ I'm a IT Support Analyst.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `Nodejs`, `JAVA`, `PHP`, `Python`
+- 📡 Backend: `PHP`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `React`, `Vue`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`
 - 👓 NoCode: `Wordpress`, `N8N`
-- 👑 Databases: `MySQL`, `MongoDB`, `SQLite`, `PostgreSQL`
+- 👑 Databases: `MySQL`
 - 👞 Cloud: `AWS`, `Locaweb`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ IDEA`, `Workbench`, `XAMPP`, `MAMP`
+- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`
 
 #### Contacts
 
