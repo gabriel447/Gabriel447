@@ -5,7 +5,7 @@ I'm a IT Support Analyst.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`
+- 📡 Backend: `PHP`, `Python`, `Node`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`
 - 👓 NoCode: `Wordpress`, `N8N`
