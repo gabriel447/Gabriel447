@@ -4,16 +4,16 @@
 I'm a IT Support Analyst.
 
 #### About
-- ⚡️ Main language: `PHP`
+- ⚡️ Main language: `Javascript`
 - 📡 Backend: `PHP`, `Python`, `Node`, `JAVA`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `MySQL`
-- 👞 Cloud: `AWS`, `Locaweb`
+- 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`
+- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `jupyter`
 
 #### Contacts
 
