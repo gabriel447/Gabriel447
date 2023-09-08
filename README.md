@@ -13,7 +13,7 @@ I'm a IT Support Analyst.
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `jupyter`
+- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `Jupyter`
 
 #### Contacts
 
