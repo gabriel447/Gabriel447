@@ -9,7 +9,7 @@ I'm a IT Support Analyst.
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `Angular`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
 - 👓 NoCode: `Wordpress`, `N8N`
-- 👑 Databases: `MySQL`, `MongoDB`
+- 👑 Databases: `MySQL`, `MongoDB`, `PostgreeSQL`
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
