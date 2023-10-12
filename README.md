@@ -4,7 +4,7 @@
 I'm a IT Support Analyst.
 
 #### About
-- ⚡️ Main language: `Javascript`
+- ⚡️ Main language: `JAVA`
 - 📡 Backend: `PHP`, `Python`, `Node`, `JAVA`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
