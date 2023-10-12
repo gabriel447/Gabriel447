@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel dos Anjos Senra 👋
 
 #### About
-I'm a IT Support Analyst.
+I'm a Backend Developer JAVA.
 
 #### About
 - ⚡️ Main language: `JAVA`
