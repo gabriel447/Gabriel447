@@ -7,13 +7,13 @@ I'm a IT Support Analyst.
 - ⚡️ Main language: `JAVA`
 - 📡 Backend: `PHP`, `Python`, `Node`, `JAVA`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Angular`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `MySQL`, `MongoDB`, `PostgreeSQL`
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `Jupyter`
+- 🔨 Tools: `VsCode`, `Jupyter`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`
 
 #### Contacts
 
