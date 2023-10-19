@@ -9,7 +9,7 @@ I'm a Backend Developer JAVA.
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Angular`
 - 👓 NoCode: `Wordpress`, `N8N`
-- 👑 Databases: `MySQL`, `MongoDB`, `PostgreeSQL`
+- 👑 Databases: `MySQL`, `MongoDB`
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
