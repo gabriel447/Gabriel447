@@ -13,7 +13,7 @@ I'm a Backend Developer JAVA.
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Jupyter`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`
+- 🔨 Tools: `VsCode`, `Jupyter`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `Eclipse`
 
 #### Contacts
 
