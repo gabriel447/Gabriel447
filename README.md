@@ -10,10 +10,10 @@ I'm a Backend Developer JAVA.
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Angular`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `PostgreSQL`, `MySQL`, `MongoDB`
-- 👞 Cloud: `AWS`, `Locaweb`, `Railway`
+- 👞 Cloud: `AWS`, `Locaweb`, `Railway`, `Vercel`
 - 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Jupyter`, `Workbench`, `XAMPP`, `MAMP`, `IntelliJ IDEA`, `Eclipse`
+- 🔨 Tools: `VsCode`, `Jupyter`, `IntelliJ`, `Eclipse`
 
 #### Contacts
 
