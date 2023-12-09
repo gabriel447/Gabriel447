@@ -5,9 +5,9 @@ I'm a Backend Developer JAVA.
 
 #### About
 - ⚡️ Main language: `JAVA`
-- 📡 Backend: `PHP`, `Python`, `Node`, `JAVA`
+- 📡 Backend: `PHP`, `JAVA`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Angular`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 👞 Cloud: `AWS`, `Locaweb`, `Railway`, `Vercel`
