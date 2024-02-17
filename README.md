@@ -1,13 +1,13 @@
 ### Hi there, I'm Gabriel dos Anjos Senra 👋
 
 #### About
-I'm a Backend Developer JAVA.
+I'm a FULLSTACK Developer.
 
 #### About
-- ⚡️ Main language: `JAVA`
-- 📡 Backend: `PHP`, `PYTHON`, `JAVA`
+- ⚡️ Main language: `PHP`
+- 📡 Backend: `PHP`, `PYTHON`, `JAVA`, `NODE`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Vue`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 👞 Cloud: `AWS`
