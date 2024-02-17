@@ -5,9 +5,9 @@ I'm a FULLSTACK Developer.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`, `PYTHON`, `JAVA`, `NODE`
+- 📡 Backend: `PHP`, `PYTHON`, `JAVA`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `Vue`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`
 - 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `PostgreSQL`, `MySQL`, `MongoDB`
 - 👞 Cloud: `AWS`
