@@ -8,10 +8,8 @@ I'm a FULLSTACK Developer.
 - 📡 Backend: `PHP`, `PYTHON`, `JAVA`, `Node`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `JQuery`
-- 👓 NoCode: `Wordpress`, `N8N`
 - 👑 Databases: `MySQL`, `MongoDB`, `PostgreSQL`, `SQLite`
 - 👞 AWS: `Cloudwatch`, `EC2`, `RDS`, `SQS`, `Lambda`, `DynamoDB`, `S3`
-- 🎨 Layout Design: `Figma` 
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`, `IntelliJ`, `Eclipse`
 
