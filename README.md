@@ -8,7 +8,7 @@ I'm a FULLSTACK Developer.
 - 📡 Backend: `PHP`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
 - 🔌 Frameworks: `Laravel`, `Bootstrap`, `Serverless`, `JQuery`
-- 👑 Databases: `MySQL`, `PostgreSQL`, `SQLite`
+- 👑 Databases: `MySQL`, `Redis`, `PostgreSQL`, `SQLite`
 - 👞 AWS: `Cloudwatch`, `EC2`, `RDS`, `SQS`, `Lambda`, `S3`
 - 📦️ Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`
