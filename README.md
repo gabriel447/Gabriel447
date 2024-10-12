@@ -5,13 +5,13 @@ I'm a FULLSTACK Developer.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`, `PYTHON`, `JAVA`, `Node`
+- 📡 Backend: `PHP`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Spring`, `JQuery`
-- 👑 Databases: `MySQL`, `MongoDB`, `PostgreSQL`, `SQLite`
-- 👞 AWS: `Cloudwatch`, `EC2`, `RDS`, `SQS`, `Lambda`, `DynamoDB`, `S3`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Serverless`, `JQuery`
+- 👑 Databases: `MySQL`, `PostgreSQL`, `SQLite`
+- 👞 AWS: `Cloudwatch`, `EC2`, `RDS`, `SQS`, `Lambda`, `S3`
 - 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `IntelliJ`, `Eclipse`
+- 🔨 Tools: `VsCode`
 
 #### Contacts
 
