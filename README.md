@@ -5,15 +5,16 @@ I'm a FULLSTACK Developer.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`
+- 📡 Backend: `PHP`, `Node.js`
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Serverless`, `JQuery`
+- 🔌 Frameworks: `Laravel`, `Bootstrap`, `Serverless`, `JQuery`, `Next.js`
 - 👑 Databases: `MySQL`, `Redis`, `PostgreSQL`, `SQLite`
-- 👞 AWS: `Cloudwatch`, `EC2`, `RDS`, `SQS`, `Lambda`, `S3`
-- 📦️ Version code control: `Git & Github`
+- 📦️ Package Managers: `npm`, `Composer`
+- 🚀 AWS: `EC2`, `S3`, `Lambda`, `API Gateway`, `SQS`, `SNS`, `Cloudwatch`, `RDS`, `Aurora`, `DynamoDB`
+- 📦️ Version code control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`
 
 #### Contacts
 
 - 📬 Email: fullstackgabe@gmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/fullstackgabe
+- 👤 Linkedin: [https://www.linkedin.com/in/fullstackgabe](https://www.linkedin.com/in/fullstackgabe)
