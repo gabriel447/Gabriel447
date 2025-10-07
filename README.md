@@ -5,12 +5,12 @@ I'm a FULLSTACK Developer.
 
 #### About
 - ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`, `Node.js`, `Python` 
+- 📡 Backend: `PHP`, `Node.js` 
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks:  `Serverless`, `Laravel`, `Livewire`, `Bootstrap`, `JQuery`, `Vue.js`
+- 🔌 Frameworks:  `Laravel`, `Livewire`, `Bootstrap`, `JQuery`, `Vue.js`
 - 👑 Databases: `MySQL`, `Redis`, `PostgreSQL`, `SQLite`, `MongoDB`
 - 📦️ Package Managers: `Npm`, `Composer`
-- 🚀 AWS: `EC2`, `S3`, `Lambda`, `API Gateway`, `SQS`, `SNS`, `Cloudwatch`, `RDS`
+- 🚀 AWS: `S3`, `Lambda`, `SQS`, `Cloudwatch`, `RDS`
 - 📦️ Version code control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`
 
