@@ -10,7 +10,7 @@ I'm a FULLSTACK Developer.
 - 🔌 Frameworks:  `Laravel`, `Livewire`, `Bootstrap`, `JQuery`, `Vue.js`
 - 👑 Databases: `MySQL`, `Redis`, `PostgreSQL`, `SQLite`, `MongoDB`
 - 📦️ Package Managers: `Npm`, `Composer`
-- 🚀 AWS: `S3`, `Lambda`, `SQS`, `Cloudwatch`, `RDS`
+- 🚀 AWS: `S3`, `Lambda`, `SQS`, `Cloudwatch`, `RDS`, `DynamoDB`
 - 📦️ Version code control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`
 
