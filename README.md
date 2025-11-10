@@ -1,9 +1,9 @@
-### Hi there, I'm Gabriel dos Anjos Senra 👋
-
 #### About
-I'm a FULLSTACK Developer.
+Hi there, I'm Gabriel Senra 👋
 
-#### About
+I'm a FULLSTACK Developer who is always learning.
+
+#### My Core Approach:
 - ⚡️ Main language: `PHP`
 - 📡 Backend: `PHP`, `Node.js` 
 - 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
@@ -14,7 +14,6 @@ I'm a FULLSTACK Developer.
 - 📦️ Version code control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`
 
-#### Contacts
-
+#### Contact:
 - 📬 Email: fullstackgabe@gmail.com
 - 👤 Linkedin: [https://www.linkedin.com/in/fullstackgabe](https://www.linkedin.com/in/fullstackgabe)
