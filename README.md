@@ -1,16 +1,12 @@
 #### About
 Hi there, I'm Gabriel Senra 👋
 
-I'm a FULLSTACK Developer who is always learning.
-
 #### My Core Approach:
-- ⚡️ Main language: `PHP`
-- 📡 Backend: `PHP`, `Node.js` 
-- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`
-- 🔌 Frameworks:  `Laravel`, `Livewire`, `Bootstrap`, `JQuery`, `Vue.js`, `React`
+- 📡 Backend: `Node.js`, `PHP`, `Laravel`
+- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `TailwindCSS`, `React.js`
 - 👑 Databases: `MySQL`, `Redis`, `PostgreSQL`, `SQLite`, `MongoDB`
 - 📦️ Package Managers: `Npm`, `Composer`
-- 🚀 AWS: `S3`, `Lambda`, `SQS`, `Cloudwatch`, `RDS`, `DynamoDB`
+- 🚀 AWS: `S3`, `Lambda`, `SQS`, `RDS`, `DynamoDB`
 - 📦️ Version code control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`
 
