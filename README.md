@@ -8,7 +8,7 @@ Hi there, I'm Gabriel Senra 👋
 - 🚀 Cloud & AWS: `Docker`, `Lambda`, `S3`, `SQS`, `RDS`, `CloudWatch`, `API Gateway`, `Amazon Q`, `AWS SAM`
 - 📦️ Package Managers: `Npm`, `Composer`
 - 💊 Version controllers: `Git & Github`, `Bitbucket`
-- 🔨 Tools: `VsCode`, `Intercom/Jira`
+- 🔨 Tools: `VsCode`, `Postman`, `DBeaver`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
