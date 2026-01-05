@@ -7,7 +7,7 @@ Hi there, I'm Gabriel Senra 👋
 - 👑 Databases: `SQLite`, `MySQL`, `PostgreSQL`, `Redis`
 - 🚀 Cloud & AWS: `Docker`, `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `CloudWatch`, `API Gateway`, `Amazon Q`, `AWS SAM`
 - 📦️ Package Managers: `Npm`, `Composer`
-- 💊 Version controllers: `Git & Github`, `Bitbucket`
+- 💊 Version control: `Git & Github`, `Bitbucket`
 - 🔨 Tools: `VsCode`, `Postman`, `DBeaver`
 
 #### Contact:
