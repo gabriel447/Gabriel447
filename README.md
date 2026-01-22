@@ -2,10 +2,10 @@
 Hi there, I'm Gabriel Senra 👋
 
 #### My Core Approach:
-- 📡 Backend: `Node.js`, `PHP`, `Laravel`
-- 🎉 Frontend: `Javascript (ES6+)`, `Vue.js`, `Inertia.js`, `HTML5`, `CSS3`, `TailwindCSS`
-- 👑 Databases: `SQLite`, `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`
-- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `CloudWatch`, `API Gateway`, `Amazon Q`, `AWS SAM`
+- 📡 Backend: `Node`, `PHP`
+- 🎉 Frontend: `Javascript`, `HTML5`, `CSS3`, `JQuery`, `Bootstrap`, 
+- 👑 Databases: `MySQL`, `Redis`
+- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `CloudWatch`, `API Gateway`, `Amazon Q`, `AWS SAM`
 - 💊 Version control: `Git & Github`
 
 #### Contact:
