@@ -10,7 +10,7 @@ Hi there, I'm Gabriel Senra 👋
 
 #### Additional knowledge:
 - `Design Patterns`, `SOLID`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `Jira`, `Bitbucket`, 
-`AJAX`, `PHPUnit`, `Pest`, `DataTables`, `Guzzle`, `Swiper.js`, `SweetAlert`
+`AJAX`, `PHPUnit`, `Pest`, `Guzzle`, `DataTables`, `Swiper.js`, `SweetAlert`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
