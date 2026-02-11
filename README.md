@@ -9,8 +9,8 @@ Hi there, I'm Gabriel Senra 👋
 - 💊 Version control: `Git & Github`
 
 #### Additional knowledge:
-`Design Patterns`, `SOLID`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `Jira`, `Bitbucket`, `AJAX`, `PHPUnit`, `Pest`,
-`DataTables`, `Guzzle`, `Swiper.js`, `SweetAlert`
+`Design Patterns`, `SOLID`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `Jira`, `Bitbucket`, 
+`AJAX`, `PHPUnit`, `Pest`, `DataTables`, `Guzzle`, `Swiper.js`, `SweetAlert`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
