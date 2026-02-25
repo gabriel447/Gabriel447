@@ -9,7 +9,9 @@ Hi there, I'm Gabriel Senra 👋
 - 💊 Version control: `Git & Github`
 
 #### Additional knowledge:
-- `Clean Code`, `Design Patterns`, `SOLID`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `Jira`, `Bitbucket`, `New Relic`, `AJAX`, `JQuery`, `Bootstrap`, `PHPUnit`, `Pest`, `Guzzle`, `DataTables`, `Swiper.js`, `SweetAlert`, `Typescript`, `Vitest`, `Inertia.js`
+- `Clean Code`, `Design Patterns`, `SOLID`, `Typescript`, `Vitest`, `Inertia.js`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `Jira`, `Bitbucket`, `New Relic`, `AJAX`, `JQuery`, `Bootstrap`, `PHPUnit`, `Pest`, `Guzzle`, `DataTables`, `SweetAlert`,  `Swiper.js`
+
+- Clean Code, Design Patterns, SOLID, TypeScript, Vitest, Inertia.js, Docker, Linux, Bash, Cron, Curl, Jira, Bitbucket, New Relic, AJAX, JQuery, Bootstrap, PHPUnit, Pest, Guzzle, DataTables, Swiper.js, SweetAlert
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
