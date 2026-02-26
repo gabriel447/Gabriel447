@@ -11,8 +11,6 @@ Hi there, I'm Gabriel Senra 👋
 #### Additional knowledge:
 - `Clean Code`, `Design Patterns`, `SOLID`, `Typescript`, `Vitest`, `Inertia.js`, `AJAX`, `JQuery`, `Bootstrap`, `Tailwind`, `New Relic`, `Docker`, `Linux`, `Bash`, `Cron`, `Curl`, `PHPUnit`, `Pest`, `Guzzle`, `DataTables`, `SweetAlert`, `Swiper.js`, `Jira`, `Bitbucket`
 
-Clean Code, Design Patterns, SOLID, Typescript, Vitest, Inertia.js, AJAX, JQuery, Bootstrap, New Relic, Docker, Linux, Bash, Cron, Curl, PHPUnit, Pest, Guzzle, DataTables, SweetAlert, Swiper.js, Jira, Bitbucket
-
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
 - 👤 Linkedin: [https://www.linkedin.com/in/fullstackgabe](https://www.linkedin.com/in/fullstackgabe)
