@@ -5,11 +5,11 @@ Hi there, I'm Gabriel Senra 👋
 - 📡 Backend: `PHP`, `Laravel`, `Node.js`
 - 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript ES6+`, `Vue.js`, `Bootstrap`, `Tailwind CSS`
 - 👑 Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`
-- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `SAM`, `CloudWatch`
+- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `AWS SAM`, `CloudWatch`
 - 💊 Version control: `Git & GitHub`
 
 #### Additional knowledge:
-`Clean Code`, `SOLID`, `Design Patterns`, `TypeScript`, `Docker`, `Linux`, `Vitest`, `Pest`, `Jira`, `Bitbucket`
+`Clean Code`, `SOLID`, `Design Patterns`, `TypeScript`, `Docker`, `Linux`, `Vitest`, `Pest`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
