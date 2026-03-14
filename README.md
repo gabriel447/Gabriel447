@@ -9,7 +9,7 @@ Hi there, I'm Gabriel Senra 👋
 - 💊 Version control: `Git & GitHub`
 
 #### Additional knowledge:
-`Clean Code`, `SOLID`, `Design Patterns`, `TypeScript`, `Composition API`, `Pinia`, `Docker`, `Linux`, `OAuth2`, `JWT`, `Vitest`, `Pest`, `Jira`, `Bitbucket`
+`Clean Code`, `SOLID`, `Design Patterns`, `TypeScript`, `Composition API`, `Pinia`, `Docker`, `Linux`, `Vitest`, `Pest`, `Jira`, `Bitbucket`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
