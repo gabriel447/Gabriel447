@@ -5,12 +5,12 @@ Hi there, I'm Gabriel Senra 👋
 - 📡 Backend: `PHP`, `Laravel`, `Node.js`
 - 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript ES6+`, `Vue.js`, `Bootstrap`, `Tailwind CSS`
 - 👑 Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`
-- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `AWS SAM`, `CloudWatch`
-- 🧪 Tests: `Pest (PHP/Laravel)`, `Vitest (Vue.js)`, `Jest (Node.js)`
+- 🚀 AWS: `Lambda`, `S3`, `SQS`, `RDS`, `DynamoDB`, `API Gateway`, `CloudWatch`
+- 🧪 Tests: `Pest`, `Vitest`, `Jest`
 - 💊 Version control: `Git & GitHub`
 
 #### Additional knowledge:
-`Clean Code`, `SOLID`, `Design Patterns`, `TypeScript`, `Docker`, `Linux`
+`TypeScript`, `Docker`, `Clean Code`, `SOLID`, `Design Patterns`, `OAuth2`, `JWT`, `Swagger`, `Webhook`, `WebSocket`
 
 #### Contact:
 - 📬 Email: fullstackgabe@gmail.com
